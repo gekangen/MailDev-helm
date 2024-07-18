@@ -18,3 +18,5 @@ helm repo update
   ```bash
   helm install my-release maildev/maildev
   ```
+
+# This is only so it builds and creates release :p
